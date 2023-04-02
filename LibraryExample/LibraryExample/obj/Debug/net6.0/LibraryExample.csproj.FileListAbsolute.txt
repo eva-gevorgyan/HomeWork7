@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\bin\Debug\net6.0\LibraryExample.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\bin\Debug\net6.0\LibraryExample.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\bin\Debug\net6.0\LibraryExample.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\bin\Debug\net6.0\LibraryExample.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\bin\Debug\net6.0\LibraryExample.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\refint\LibraryExample.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\LibraryExample.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\LibraryExample\LibraryExample\obj\Debug\net6.0\ref\LibraryExample.dll
